@@ -66,7 +66,7 @@ Este proyecto es una aplicación web construida con Laravel que permite importar
 
 ## Configuración de la API
 
-La URL de la API externa se define en el archivo `.env` con la variable `API_URL`.
+La URL de la API externa se define en el archivo `.env` con la variable `API_URL` que debe llevar el valor de `https://68827f5521fa24876a9b0eff.mockapi.io/api/v1/name`.
 
 ## Licencia
 
